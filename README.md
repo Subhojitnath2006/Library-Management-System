@@ -92,7 +92,7 @@ A complete Library Management System built with MongoDB, Express.js, React.js, a
 Clone the project repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/KaranMehta1806/Library-Management.git
+git clone https://github.com/Subhojitnath2006/Library-Management-System.git
 ```
 
 ### 2. Install Dependencies
